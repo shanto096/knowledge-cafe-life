@@ -1,0 +1,27 @@
+.all-content {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin: 1rem 8rem 0rem 8rem;
+}
+
+.post-content {
+    border-radius: 5px;
+    background-color: rgb(236, 234, 234);
+    padding: 1rem;
+}
+
+.bookmark-content {
+    border-radius: 5px;
+    background-color: rgb(236, 234, 234);
+    margin-left: 1rem;
+}
+
+.bookmarktime {
+    padding: 1rem;
+    border: 3px solid rgb(44, 192, 234);
+    border-radius: 7px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: azure;
+    color: green;
+}

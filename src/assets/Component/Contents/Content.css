@@ -1,0 +1,22 @@
+.blog-profile-content {
+    display: flex;
+    align-items: center;
+}
+
+.blog-profile {
+    /* display: flex; */
+    border: 3px solid rgb(40, 38, 38);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
+
+.img-blog {
+    border-radius: 10px;
+    width: 800px;
+    height: 400px;
+}
+
+.bookmarks {
+    color: white;
+}
